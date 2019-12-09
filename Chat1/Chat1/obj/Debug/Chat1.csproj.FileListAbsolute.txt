@@ -1,0 +1,6 @@
+D:\Student_L\Chat1\Chat1\bin\Debug\Chat1.exe.config
+D:\Student_L\Chat1\Chat1\bin\Debug\Chat1.exe
+D:\Student_L\Chat1\Chat1\bin\Debug\Chat1.pdb
+D:\Student_L\Chat1\Chat1\obj\Debug\Chat1.csprojAssemblyReference.cache
+D:\Student_L\Chat1\Chat1\obj\Debug\Chat1.exe
+D:\Student_L\Chat1\Chat1\obj\Debug\Chat1.pdb
